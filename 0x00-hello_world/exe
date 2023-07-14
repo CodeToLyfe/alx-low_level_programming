@@ -1,2 +1,2 @@
 #!/bin/bash
-gcc $CFILE -o 4-puts
+gcc $CFILE -o 5-printf
