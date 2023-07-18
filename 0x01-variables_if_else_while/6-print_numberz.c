@@ -10,8 +10,8 @@ int main(void)
 {
 	int num;
 
-	for (num = 27; num <= 36; num++)
-		printf((char)num);
+	for (num = 48; num <= 57; num++)
+		putchar((char)num);
 	putchar('\n');
 	return (0);
 }
